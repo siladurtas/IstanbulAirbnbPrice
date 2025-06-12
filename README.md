@@ -1,7 +1,3 @@
-Elbette! İşte daha detaylı, profesyonel ve açık bir dille yazılmış bir README dosyası:
-
----
-
 # 🏡 Airbnb İstanbul Fiyat Tahmin Modeli
 
 Bu proje, İstanbul’daki Airbnb ilanlarının gecelik konaklama fiyatlarını tahmin etmeyi amaçlayan bir makine öğrenmesi uygulamasıdır. Sistem, veri ön işleme, özellik mühendisliği, model eğitimi, değerlendirme ve REST API üzerinden tahmin sunma adımlarını içeren uçtan uca bir çözüm sunar.
@@ -133,10 +129,6 @@ print(response.json())
   * RMSE, MAE, R² skorları
   * En iyi modelin açıklaması
   * Tahmin sonuçları
-
----
-
-## 📌 Notlar
 
 * Eksik veri oranı %40’ı aşan sütunlar silinmiştir.
 * Özellik gruplamaları (örneğin renk, bölge gibi) gerekiyorsa 0-1 dummy değil, anlamlı kategorik sınıflamalarla birleştirilmiştir.
