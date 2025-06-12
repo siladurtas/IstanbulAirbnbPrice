@@ -8,7 +8,7 @@ warnings.filterwarnings('ignore')
 
 app = Flask(__name__)
 
-# Model ve scaler yükleme fonksiyonları (verdiğin koddan)
+# Model ve scaler yükleme fonksiyonları 
 def load_models():
     models = {}
     model_files = [
